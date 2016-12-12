@@ -1,9 +1,10 @@
 '''
 A DQN agent solving atari breakout game
-using tensorflow and openai gym environment ¡®Breakout-RAM-v0¡¯
-2017-12-12
+using tensorflow and openai gym environment 'Breakout-RAM-v0'
 
-seoul national university. 
+https://github.com/had1227/DQN-breakout-ram/blob/master/dqn_code.py
+
+Seoul national university. 2017.
 timothy ha & inyoung bang
 '''
 
